@@ -18,7 +18,7 @@
     "licenses"    : [
         {
             "type": "MIT",
-            "url": "https://raw.github.com/TryGhost/Ghost/master/LICENSE"
+            "url": "http://opensource.org/licenses/MIT"
         }
     ],
     "main": "./core/index",
